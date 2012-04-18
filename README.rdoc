@@ -1,7 +1,7 @@
-# Notepad ++ - Go Syntax Highlighting
+= Notepad ++ - Go Syntax Highlighting
 This is a user-defined language configuration for Google's Go programming language.
 
-## Installation Instructions
+== Installation Instructions
 1. Open Notepad++
 2. Open the "User-Defined Dialogue" (View->User Defined Dialogue...)
 3. Click "Import"
@@ -10,7 +10,7 @@ This is a user-defined language configuration for Google's Go programming langua
 6. Type "go"
 7. Close the "User-Defined Dialogue"
 
-## Usage Instructions
+== Usage Instructions
 1. Open the "Language" menu in Notepad++
 2. Scroll to the bottom where you should now see "go" as a menu option, and click it
 3. Begin typing in the go programming language
