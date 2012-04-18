@@ -1,4 +1,4 @@
-= Notepad ++ - Go Syntax Highlighting
+= Notepad++ Go Language Syntax Highlighting
 This is a user-defined language configuration for Google's Go programming language.
 
 == Installation Instructions
